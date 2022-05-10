@@ -1,0 +1,11 @@
+Create MicroService System to contain
+1. OcelotAPIGateWay
+2. Microservices:AccountAPI with MongoDb,PaymentAPI with Redis,CustomerAPI with PostgreSQL,DepositAPI with SQL, CustomerRatingAPI.Grpc 
+3. Front-End: Blazor, Maui
+4. Deploying with Kubernates automating with Azure
+
+Follow the tutorial:
+https://github.com/aspnetrun/run-aspnetcore-microservices
+https://www.udemy.com/
+
+Next step to take:Build AccountAPI microservice with MongoDb (follow the tutorial)
